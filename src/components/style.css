@@ -1,0 +1,28 @@
+.button {
+    color: blue;
+    font-weight: 100;
+    font-size: small;
+    padding: 1em;
+}
+
+.ul {
+    color: rebeccapurple;
+    font-weight: 100;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.li {
+    color: brown;
+    font-weight: 100;
+    font-size: small;
+    padding: 1em;
+    font-weight: bold;
+}
+
+.p {
+    color: blue;
+    font-weight: 100;
+    font-weight: bold;
+    font-size: large;
+}
